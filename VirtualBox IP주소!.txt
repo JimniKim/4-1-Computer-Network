@@ -1,0 +1,4 @@
+172.30.1.88 -> host ip (cmd에서 ipconifg)
+port 2222
+
+10.0.2.15/24 -> guest ip (VM에서 ifconfig
